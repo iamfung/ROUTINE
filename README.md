@@ -12,7 +12,7 @@ This is a web page created using HTML that displays the exam routine for Grade 1
 Just open the `routine.html` file in any browser like Chrome or Firefox
 Or 
 click on this link to open webpage
-Link: https://iamfung.github.io/ROUTINE/
+Link: https://iamfung.github.io/ROUTINE_NDC/
 
 ## Created by
 FUNG
