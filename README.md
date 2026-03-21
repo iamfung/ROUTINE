@@ -13,8 +13,7 @@ This is a web page created using HTML that displays the exam routine for Grade 1
 
 Link: https://iamfung.github.io/ROUTINE_NDC/
 
-##Original Routine I referenced:
-![Referenced routine](practice_routine.jpg)
+##Original routine i referenced is in Original folder.
 
 ## Created by
 FUNG
